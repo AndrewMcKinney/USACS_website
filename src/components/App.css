@@ -1,0 +1,41 @@
+.tabs {
+  display: flex;
+  flex-direction : row;
+}
+
+.Sidebar {
+  margin: left;
+  width : 10%;
+  height : 100%;
+  border: 1px solid black;
+  padding: 10px;
+}
+
+.Profile {
+  border : 1px solid red;
+  padding: 5px;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+}
+
+.Profile-container {
+  padding: 20px;
+  width: 100%;
+  margin:left;
+}
+
+img {
+  display: block;
+  margin-right: right;
+  height: 400px;
+  width: 300px;
+}
+
+.img-container {
+  
+}
+
+.text-container {
+  width: 300%
+}
